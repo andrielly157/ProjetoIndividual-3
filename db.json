@@ -123,7 +123,7 @@
         },
         {
             "id": 3,
-            "fil_nome":"UCI Park Shopping",
+            "Cine_nome":"UCI Park Shopping",
              "localização": "Estrada do Monteiro, 1200 - 109 - Campo Grande - RJ",
              "horario dos filmes": "18H",
              "assentos": "43 comuns, 43 vips, 43 preferencias",
@@ -131,7 +131,7 @@
         },
         {
             "id": 4,
-            "fil_nome":"Cinemark - Plaza Niterói",
+            "Cine_nome":"Cinemark - Plaza Niterói",
              "localização": "Rua Quinze de Novembro, 8 - Loja 333 - Centro, Niterói - RJ",
              "horario dos filmes": "16H",
              "assentos": "45 comuns, 45 vips, 40 preferencias",
