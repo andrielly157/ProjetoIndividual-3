@@ -1,0 +1,8 @@
+     {
+        "name": "module3",
+        "version": "1.0.0",
+        "main": "index.js",
+        "repository": "https://github.com/andrielly157//ProjetoIndividual-3.git", 
+        "author": "Andrielly Moura de Souza",
+        "license": "MIT"
+      }

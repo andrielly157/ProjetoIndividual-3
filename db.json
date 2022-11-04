@@ -1,0 +1,141 @@
+{
+    "Filme":[
+        {
+        "id": 1,
+        "fil_nome":"fil 1",
+        "nome": "Os Vingadores",
+        "genero": "Ação,Fantasia,Super-herói,Suspense,Ficção Científica,Drama,Aventura",
+        "direção":"Joe Russo, Anthony Russo, Joss Whedon",
+        "país":"EUA",
+        "ano de lançamento": 2022,
+        "horario dos filmes": "16h",
+        "assentos": "30 comuns, 30 vips, 10 preferencias",
+        "Dub/Leg":"Dub 16:30h, Leg 16:00"
+             
+        },
+        {
+            "id": 2,
+            "fil_nome":"fil 2",
+            "nome": "Homem Aranha",
+            "genero": "Ação,Fantasia,Super-herói,Suspense,Ficção Científica,Drama,Aventura",
+            "produção":"Sam Raimi",
+            "país":"EUA",
+            "ano de lançamento": 2022
+            },
+            {
+                "id": 3,
+                "fil_nome":"fil 3",
+                "nome": "A Òrfã",
+                "genero": "Terror",
+                "direção":"Jaume Collet-Serra",
+                "ano de lançamento": 2022
+                },
+                {
+                    "id": 4,
+                    "fil_nome":"fil 4",
+                    "nome": "Moana - Um Mar de Aventuras",
+                    "genero": "Infantil, Aventura",
+                    "direção":"Ron Clements, John Musker",
+                    "ano de lançamento": 2022
+                    }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+             "Pro_nome": "Pepsi",
+             "valor": "8 Reais",
+             "ml": "1L"
+        },
+            {
+                "id": 2,
+                 "Pro_nome": "Pipoca",
+                 "valor": "10 Reais",
+                 "quantidade": "300g"
+            },
+            {
+                "id": 3,
+                 "Pro_nome": "Promoção",
+                 "combo":"Pepsi,Pipoca,Brinde",
+                 "valor": "55 Reais",
+                 "brinde": "Copo dos Vingadores"
+            },
+            {
+                "id": 4,
+                 "Pro_nome": "Mega-Combo",
+                 "combo":"Action-Figure,Pepsi-Pipoca,Ingresso,Camisa,Brinde",
+                 "valor": "245 Reais",
+                 "brinde": "Item Misterio"
+            }
+    ],
+    "fanshop":[
+        {
+            "id": 1,
+             "fan_nome": "produtos feitos de fã para fã",
+             "combos": "Combo Camiseta Pré - Estreia Vingadores + 5 Cards Homem Aranha",
+             "brinde do combo": "Caneca dos Vingadores",
+             "ingresso": "incluso no combo",
+             "valor":"R$ 99,90 reais"
+        },
+        {
+            "id": 2,
+             "fan_nome": "produtos feitos de fã para fã",
+             "camisa": "camiseta Moana",
+             "promoção": "2 camisetas Moana por um menor preço",
+             "cartão": "parcelamento em até 6x sem juros",
+             "valor":"R$ 50,00 reais",
+             "valor promocional ":"Duas camisetas por apenas R$ 85,00 reais"
+        }, 
+        {
+            "id": 3,
+             "fan_nome": "produtos feitos de fã para fã",
+             "camisa": "camiseta Òrfã",
+             "promoção": "2 camisetas Òrfã por um menor preço",
+             "cartão": "parcelamento em até 6x sem juros",
+             "valor":"R$ 50,00 reais",
+             "valor promocional":"Duas camisetas por apenas R$ 85,00 reais"
+        },
+        {
+            "id": 4,
+             "fan_nome": "produtos feitos de fã para fã",
+             "camisa": "camiseta Homem Aranha",
+             "promoção": "2 camisetas Homem Aranha por um menor preço",
+             "cartão": "parcelamento em até 6x sem juros",
+             "valor":"R$ 50,00 reais",
+             "valor promocional":"Duas camisetas por apenas R$ 85,00 reais"
+        }
+    ],
+    "Cinema":[
+        {
+            "id": 1,
+            "Cine_nome":"Cinema Norte Shopping",
+             "localização": "Av. Dom Hélder Câmara, 5474 - Cachambi, Rio de Janeiro",
+             "horario dos filmes": "17H",
+             "assentos": "30 comuns, 30 vips, 30 preferencias",
+             "Dub/Leg":"Dub 17:30h, Leg 17:00"
+        },
+        {
+            "id": 2,
+            "Cine_nome":"Caxias Shopping",
+             "localização": "Rod. Washington Luíz, 2895 - Parque Duque, Duque de Caxias - RJ",
+             "horario dos filmes": "19H",
+             "assentos": "40 comuns, 40 vips, 20 preferencias",
+             "Dub/Leg":"Dub 19:30h, Leg 19:00"
+        },
+        {
+            "id": 3,
+            "fil_nome":"UCI Park Shopping",
+             "localização": "Estrada do Monteiro, 1200 - 109 - Campo Grande - RJ",
+             "horario dos filmes": "18H",
+             "assentos": "43 comuns, 43 vips, 43 preferencias",
+             "Dub/Leg":"Dub 18:30h, Leg 18:00"
+        },
+        {
+            "id": 4,
+            "fil_nome":"Cinemark - Plaza Niterói",
+             "localização": "Rua Quinze de Novembro, 8 - Loja 333 - Centro, Niterói - RJ",
+             "horario dos filmes": "16H",
+             "assentos": "45 comuns, 45 vips, 40 preferencias",
+             "Dub/Leg":"Dub 14:30h, Leg 14:00"
+        }
+    ]
+}
