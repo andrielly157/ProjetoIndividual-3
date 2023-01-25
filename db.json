@@ -39,7 +39,7 @@
                     "ano de lançamento": 2022
                     }
     ],
-    "produtos": [
+    "Produtos": [
         {
             "id": 1,
              "Pro_nome": "Pepsi",
@@ -67,7 +67,7 @@
                  "brinde": "Item Misterio"
             }
     ],
-    "fanshop":[
+    "Fanshop":[
         {
             "id": 1,
              "fan_nome": "produtos feitos de fã para fã",
